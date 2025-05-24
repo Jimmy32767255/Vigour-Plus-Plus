@@ -197,7 +197,7 @@ class FanSimulator(QMainWindow):
         self.layout.addLayout(bottom_links_layout)
 
         # 版本号
-        version_label = QLabel("v2.3.1")
+        version_label = QLabel("V0.1.0R")
         version_label.setAlignment(Qt.AlignCenter)
         version_label.setStyleSheet("font-size: 8pt; color: #808080;")
         self.layout.addWidget(version_label)
