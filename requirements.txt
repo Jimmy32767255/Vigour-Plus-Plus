@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+sounddevice==0.4.6
+numpy==1.24.4
+psutil==5.9.5
+loguru==0.7.2
